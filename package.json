@@ -1,0 +1,24 @@
+{
+  "name": "com.ciro.progress-framework",
+  "version": "0.1.0-preview.1",
+  "displayName": "Progress Framework",
+  "description": "A framework to save game progress.",
+  "keywords": [
+    "save",
+    "saving",
+    "save game",
+    "progress",
+    "quest",
+    "savefile"
+  ],
+  "author": {
+    "name": "Ciro Continisio",
+    "email": "c.continisio@gmail.com",
+    "url": "https://continis.io"
+  },
+  "unity": "2017.1",
+  "type": "tool",
+  "dependencies": {
+    "com.ciro.scriptable-object-tools": "0.1.0-preview.1"
+  }
+}
